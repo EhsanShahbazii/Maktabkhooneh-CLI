@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+telegram_temp/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment & Testing
+.venv/
+env/
+venv/
+ENV/
+.pytest_cache/
+
+# Environment and Secrets (CRITICAL)
+.env
+.env.*
+!.env.example
+*.session
+*.session-journal
+*.cookies.json
+.maktab_auth.json
+*.jsonl
+
+# SQLite & Data
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+data/
+downloads/
+*.export.json
+all_maktab_data.json
+maktab_export.json
+
+# IDE & OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
