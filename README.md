@@ -1,11 +1,18 @@
+<div align="center">
+  <img src="assets/banner.jpg" alt="Maktabkhooneh CLI Banner" width="100%" />
+</div>
+
+<br/>
+
 # 🎓 Maktabkhooneh Automated Downloader, Metadata Scraper & Auto-Enrollment
 
 > **High-performance, concurrent, and resilient metadata scraper, size inspector, student reviews collector, course auto-enroller, and video downloader for Maktabkhooneh ([maktabkhooneh.org](https://maktabkhooneh.org)).**  
-> Engineered in Python with `Typer`, `Rich`, `AsyncIO`, `HTTPX`, `aiosqlite`, and `Tenacity`.
+> Engineered in Python with `Typer`, `Rich`, `AsyncIO`, `HTTPX`, `aiosqlite`, `Telethon`, and `Tenacity`.
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 [![Database](https://img.shields.io/badge/Database-SQLite%20(WAL)-003B57.svg?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Telegram](https://img.shields.io/badge/Telegram-Telethon%20Uploader-2CA5E0.svg?style=flat-square&logo=telegram&logoColor=white)](https://telegram.org/)
 [![Author: Ehsan Shahbazi](https://img.shields.io/badge/Author-Ehsan%20Shahbazi-orange.svg?style=flat-square&logo=github)](https://github.com/EhsanShahbazii)
 
 ---
